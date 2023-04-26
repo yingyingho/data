@@ -1,0 +1,332 @@
+label,cx,cy
+Hartlepool,448118,530661
+Middlesbrough,450380,516653
+Redcar and Cleveland,463383,518023
+Stockton-on-Tees,443484,518785
+Darlington,429038,517147
+Halton,352162,383230
+Warrington,362665,389223
+Blackburn with Darwen,369254,421850
+Blackpool,331921,436188
+Kingston upon Hull,509765,430588
+East Riding of Yorkshire,499908,442365
+North East Lincolnshire,523749,406881
+North Lincolnshire,493268,411782
+York,461737,451799
+Derby,435851,335169
+Leicester,459135,304861
+Rutland,491121,307844
+Nottingham,455451,340739
+Herefordshire,349035,245285
+Telford and Wrekin,367109,314837
+Stoke-on-Trent,389018,346716
+Bath and North East Somerset,367057,162001
+Bristol,346546,172919
+North Somerset,344429,165882
+South Gloucestershire,367431,183263
+Plymouth,249389,56735
+Torbay,291417,61223
+Swindon,417817,185857
+Peterborough,518343,302621
+Luton,508515,222915
+Southend-on-Sea,589363,185610
+Thurrock,564863,181237
+Medway,578769,172759
+Bracknell Forest,487739,168395
+West Berkshire,448409,172535
+Reading,470639,173186
+Slough,498180,179746
+Windsor and Maidenhead,490435,177040
+Wokingham,477672,170613
+Milton Keynes,486881,243629
+Brighton and Hove,531606,106526
+Portsmouth,465010,102752
+Southampton,442376,113232
+Isle of Wight,449779,86461
+County Durham,410446,533389
+Cheshire East,376729,364874
+Cheshire West and Chester,350919,367257
+Shropshire,350424,304422
+Cornwall,199168,59975
+Isles of Scilly,91546,11139
+Wiltshire,403934,155301
+Bedford,504237,255656
+Central Bedfordshire,507413,235392
+Northumberland,395886,594161
+"Bournemouth, Christchurch and Poole",408362,94131
+Dorset,376581,100771
+Buckinghamshire,482081,210241
+North Northamptonshire,493494,281667
+West Northamptonshire,465908,258722
+Cambridge,545770,257755
+East Cambridgeshire,556466,274112
+Fenland,539807,298084
+Huntingdonshire,521228,276573
+South Cambridgeshire,542444,254795
+Allerdale,319765,535836
+Barrow-in-Furness,320831,470657
+Carlisle,348339,564335
+Copeland,310947,502927
+Eden,359952,524354
+South Lakeland,344716,488871
+Amber Valley,435845,348157
+Bolsover,448358,368917
+Chesterfield,440052,373318
+Derbyshire Dales,420549,359062
+Erewash,443979,337734
+High Peak,408491,386271
+North East Derbyshire,436969,370027
+South Derbyshire,429750,326002
+East Devon,313793,96775
+Exeter,293498,92447
+Mid Devon,290588,109637
+North Devon,265967,131782
+South Hams,270440,54205
+Teignbridge,282849,79821
+Torridge,241935,112003
+West Devon,255465,86000
+Eastbourne,559822,99749
+Hastings,580952,110924
+Lewes,541167,111026
+Rother,578409,119997
+Wealden,554434,120966
+Basildon,570901,190821
+Braintree,578133,230213
+Brentwood,559999,195829
+Castle Point,579982,185122
+Chelmsford,571456,205876
+Colchester,597077,223202
+Epping Forest,548522,203300
+Harlow,545614,209915
+Maldon,592438,204831
+Rochford,594750,191782
+Tendring,614571,223776
+Uttlesford,556816,228707
+Cheltenham,395079,221973
+Cotswold,407474,213072
+Forest of Dean,366318,214546
+Gloucester,383531,216834
+Stroud,379361,203473
+Tewkesbury,394038,227458
+Basingstoke and Deane,455819,153006
+East Hampshire,473316,131076
+Eastleigh,447331,115065
+Fareham,454571,106165
+Gosport,459361,100995
+Hart,476958,154529
+Havant,471226,104842
+New Forest,426464,106633
+Rushmoor,486069,153516
+Test Valley,434314,136669
+Winchester,454712,125708
+Broxbourne,534904,204646
+Dacorum,500758,209858
+Hertsmere,518976,199022
+North Hertfordshire,524291,230523
+Three Rivers,506561,196949
+Watford,510556,197803
+Ashford,596857,139969
+Canterbury,616375,158359
+Dartford,556785,172676
+Dover,629815,151044
+Gravesham,566746,170115
+Maidstone,580248,151563
+Sevenoaks,551567,155211
+Folkestone and Hythe,610024,132599
+Swale,595988,164044
+Thanet,632674,166985
+Tonbridge and Malling,564511,155282
+Tunbridge Wells,570254,137789
+Burnley,385506,431414
+Chorley,357265,418497
+Fylde,339324,432384
+Hyndburn,374414,429238
+Lancaster,353328,463919
+Pendle,387886,441045
+Preston,354185,435253
+Ribble Valley,370849,445761
+Rossendale,382473,421988
+South Ribble,353203,425975
+West Lancashire,341717,412911
+Wyre,344008,445536
+Blaby,452852,297375
+Charnwood,457739,315833
+Harborough,467383,293977
+Hinckley and Bosworth,441354,302271
+Melton,477226,322729
+North West Leicestershire,440239,317453
+Oadby and Wigston,461524,299185
+Boston,532926,343714
+East Lindsey,535540,374440
+Lincoln,496573,370718
+North Kesteven,504210,354897
+South Holland,532780,324067
+South Kesteven,499893,329594
+West Lindsey,501339,389522
+Breckland,592273,302678
+Broadland,623735,316663
+Great Yarmouth,647815,311075
+King's Lynn and West Norfolk,566910,317216
+North Norfolk,613546,332832
+Norwich,622020,308886
+South Norfolk,622377,295780
+Craven,388715,464893
+Hambleton,444420,488149
+Harrogate,426573,463534
+Richmondshire,404370,496225
+Ryedale,475009,480011
+Scarborough,488815,497619
+Selby,457071,432688
+Ashfield,449768,355201
+Bassetlaw,469431,382275
+Broxtowe,449657,342283
+Gedling,459166,348277
+Mansfield,455327,364075
+Newark and Sherwood,472378,359080
+Rushcliffe,464834,334124
+Cherwell,449860,229130
+Oxford,452441,206500
+South Oxfordshire,464397,193175
+Vale of White Horse,438787,192976
+West Oxfordshire,434067,215553
+Mendip,362056,144991
+Sedgemoor,333465,143276
+South Somerset,350246,121192
+Cannock Chase,401418,312745
+East Staffordshire,412763,329519
+Lichfield,413297,310036
+Newcastle-under-Lyme,378749,344081
+South Staffordshire,388140,303026
+Stafford,388230,327866
+Staffordshire Moorlands,401331,353540
+Tamworth,421984,303220
+Babergh,599986,243163
+Ipswich,616698,244356
+Mid Suffolk,611211,265459
+Elmbridge,512060,163238
+Epsom and Ewell,521188,161461
+Guildford,500446,150851
+Mole Valley,517049,147214
+Reigate and Banstead,526286,152009
+Runnymede,501617,167042
+Spelthorne,506652,170605
+Surrey Heath,492648,161313
+Tandridge,536712,149345
+Waverley,495682,139877
+Woking,500423,158249
+North Warwickshire,425346,294421
+Nuneaton and Bedworth,435701,289373
+Rugby,445826,276476
+Stratford-on-Avon,425910,253437
+Warwick,428512,268090
+Adur,519857,106296
+Arun,500922,105536
+Chichester,488437,116059
+Crawley,527313,137822
+Horsham,514696,122819
+Mid Sussex,531427,126224
+Worthing,513043,104470
+Bromsgrove,398961,273791
+Malvern Hills,376452,253907
+Redditch,403427,264902
+Worcester,385680,255359
+Wychavon,396608,251844
+Wyre Forest,381336,275771
+St Albans,514441,209482
+Welwyn Hatfield,524698,209206
+East Hertfordshire,537205,220364
+Stevenage,524559,224521
+East Suffolk,636456,265500
+West Suffolk,578957,267629
+Somerset West and Taunton,304672,132836
+Bolton,369187,409211
+Bury,379434,410155
+Manchester,384645,394923
+Oldham,396668,406152
+Rochdale,389646,413331
+Salford,375503,399266
+Stockport,391577,388561
+Tameside,395938,397900
+Trafford,376532,391465
+Wigan,361033,403243
+Knowsley,344694,392430
+Liverpool,339133,389144
+St. Helens,352124,396102
+Sefton,332846,408176
+Wirral,327405,386273
+Barnsley,431083,404470
+Doncaster,460041,405684
+Rotherham,447556,390471
+Sheffield,430011,389797
+Newcastle upon Tyne,421988,568195
+North Tyneside,430940,570503
+South Tyneside,435717,563346
+Sunderland,435242,554109
+Birmingham,408620,287849
+Coventry,432736,280037
+Dudley,392753,287253
+Sandwell,399516,290879
+Solihull,418611,279457
+Walsall,402370,300150
+Wolverhampton,391927,299026
+Bradford,409656,438737
+Calderdale,401827,424977
+Kirklees,415745,414567
+Leeds,432624,436701
+Wakefield,438985,418409
+Gateshead,420364,560133
+City of London,532539,181164
+Barking and Dagenham,548056,184924
+Barnet,524095,192314
+Bexley,548955,175730
+Brent,520189,185924
+Bromley,542864,165667
+Camden,527931,184580
+Croydon,533300,163557
+Ealing,515931,181701
+Enfield,532411,196432
+Greenwich,542847,177046
+Hackney,534348,185478
+Hammersmith and Fulham,523529,178905
+Haringey,531225,189614
+Harrow,514912,190121
+Havering,554032,187245
+Hillingdon,507905,183585
+Hounslow,513589,175668
+Islington,531145,185005
+Kensington and Chelsea,525606,179504
+Kingston upon Thames,519327,166705
+Lambeth,530807,174499
+Lewisham,537676,174051
+Merton,525579,169458
+Newham,541466,182855
+Redbridge,543919,189405
+Richmond upon Thames,517367,172867
+Southwark,533829,176738
+Sutton,526964,164120
+Tower Hamlets,536495,181509
+Waltham Forest,537726,190195
+Wandsworth,526055,174145
+Westminster,527739,181005
+Isle of Anglesey,241795,379205
+Gwynedd,263903,334963
+Conwy,283987,361802
+Denbighshire,309404,355776
+Flintshire,322419,369649
+Wrexham,331795,344142
+Ceredigion,258574,263991
+Pembrokeshire,201312,221152
+Carmarthenshire,251227,224511
+Swansea,257445,195641
+Neath Port Talbot,279564,199348
+Bridgend,289150,185340
+Vale of Glamorgan,302809,172697
+Cardiff,316778,179542
+Rhondda Cynon Taf,300745,195665
+Caerphilly,316753,195610
+Blaenau Gwent,317699,208201
+Torfaen,327301,200555
+Monmouthshire,340238,206911
+Newport,333448,186541
+Powys,303993,270454
+Merthyr Tydfil,306153,205467
